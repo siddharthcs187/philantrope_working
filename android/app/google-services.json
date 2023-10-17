@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771769767082",
+    "project_id": "philantrope",
+    "storage_bucket": "philantrope.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771769767082:android:a8dbc34073bacd9ee86cd3",
+        "android_client_info": {
+          "package_name": "com.example.philantrope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZPzrxlSni1emGy0Omnj16n1_XHBZgeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
